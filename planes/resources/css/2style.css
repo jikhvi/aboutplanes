@@ -674,7 +674,10 @@ margin-left: 100px;
 
 
 
-
+.add {
+    text-align: center;
+    gap: 20px;
+}
 
 
 
@@ -692,4 +695,5 @@ footer p {
     margin-top: 25px;
 
 }
+
 
