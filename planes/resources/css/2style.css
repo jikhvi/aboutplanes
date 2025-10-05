@@ -673,7 +673,9 @@ margin-left: 100px;
 }
 
 
-
+.add {
+    gap: 10px;
+}
 
 
 
@@ -692,6 +694,7 @@ footer p {
     margin-top: 25px;
 
 }
+
 
 
 
