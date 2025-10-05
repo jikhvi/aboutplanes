@@ -674,11 +674,6 @@ margin-left: 100px;
 
 
 
-.add {
-    display: flex;
-    justify-content: space-evenly;
-    font-size: 20px;
-}
 
 
 
@@ -697,6 +692,7 @@ footer p {
     margin-top: 25px;
 
 }
+
 
 
 
